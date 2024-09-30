@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "API_paises_c#/1.0.0": {
+        "runtime": {
+          "API_paises_c#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "API_paises_c#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
